@@ -1,0 +1,85 @@
+body{
+    background-image: url(https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
+h1{
+    font-family: "Megrim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: #f90643;
+    cursor: url(Cursor-Arrow-PNG-Transparent-Image.cur), default;
+}
+
+h2{
+    font-family: "Nosifer";
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 2px;
+    text-transform: uppercase; text-align: center;
+    border: 4px solid #0f0101;
+    background:transparent;
+    color: #eae8ee;
+    box-shadow: 1px 1px 2px #C69878;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: crosshair;
+}
+
+h3{
+  font-family: "Nosifer";
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background:transparent;
+  color: #eae8ee;
+  padding: 3px 10px;
+  cursor: crosshair;
+}
+
+h4{
+  font-family: "Nosifer";
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  letter-spacing: 2px;
+  background:transparent;
+  color: #00ff08;
+  padding: 3px 10px;
+  cursor: crosshair;
+}
+
+.glow {
+    font-size: 40px;
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+.btn{
+  justify-content: center;
+  text-align: center;
+}
+
+.pendaftaran, a{
+  background-color: #2880b9;
+  color: white;
+  text-decoration: none;
+  width: 100px;
+  height: 40px;
+  border: transparent;
+  border-radius: 5px;
+}
+
+@-webkit-keyframes glow{
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }

@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+    background-image: url(https://www.gifcen.com/wp-content/uploads/2022/04/wallpaper-gif-4.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+form{
+    width: 100%;
+}
+
+legend{
+    text-align: center;
+}
+
+.back, a{
+    margin-top: 5px;
+    background-color: #2880b9; 
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}

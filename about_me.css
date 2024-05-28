@@ -1,0 +1,30 @@
+.back, a{
+    margin-top: 2px;
+    background-color: #6db8ea;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+.back, b{
+    margin-top: 2px;
+    background-color: #9c0404;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+.back, c{
+    margin-top: 2px;
+    background-color: #4b4b4b;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
